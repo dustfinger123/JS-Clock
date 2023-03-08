@@ -1,0 +1,24 @@
+#app {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#clock span{
+  color: #17d4fe;
+  /* font-family: 'Orbitron', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+  font-family: "Krub", sans-serif;
+  font-size: 70px;
+  letter-spacing: 7px;
+}
+#currentDate {
+  color: #17d4fe;
+  font-family: "Krub", sans-serif;
+  font-size: 50px;
+  letter-spacing: 5px;
+
+}
